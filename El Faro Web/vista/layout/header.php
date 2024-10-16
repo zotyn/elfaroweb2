@@ -1,4 +1,4 @@
-<?php $url_base="http://localhost/El Faro Web/"?>
+<?php $url_base="El Faro Web/"?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
